@@ -1,0 +1,323 @@
+{
+  "model": "export/DeepSeekNiang_v4/DeepSeekNiang.moc3",
+  "moc_sha256": "e903e8a0193927578ac952b3d33f69491a135d1dda802af034e9cdb08d1735cc",
+  "iris_sides": {
+    "ArtMeshIridesL": "L",
+    "ArtMeshIridesR": "R",
+    "ArtMeshImage_19": "R",
+    "ArtMeshImage_20": "L",
+    "ArtMeshImage_21": "R",
+    "ArtMeshImage_22": "L"
+  },
+  "hair_rules": {
+    "ArtMeshGestV4p_Image_112": {
+      "rule": "blue-dominant-hair",
+      "texels": 10165
+    },
+    "ArtMeshGestV4p_Image_111": {
+      "rule": "blue-dominant-hair",
+      "texels": 139340
+    },
+    "ArtMeshGestV4p_Image_109": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 1617
+    },
+    "ArtMeshGestV4p_Image_108": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 1198
+    },
+    "ArtMeshGestV4p_Image_114": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 1848
+    },
+    "ArtMeshGestV4p_Image_113": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 3261
+    },
+    "ArtMeshGestV4p_Image_121": {
+      "rule": "hair-island",
+      "texels": 50668
+    },
+    "ArtMeshGestV4p_Image_120": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 110
+    },
+    "ArtMeshGestV4p_Image_129": {
+      "rule": "hair-island",
+      "texels": 92033
+    },
+    "ArtMeshGestV4p_Image_128": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 100
+    },
+    "ArtMeshGestV4p_Image_127": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 597
+    },
+    "ArtMeshGestV4p_Image_126": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 5732
+    },
+    "ArtMeshGestV4p_Image_125": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 383
+    },
+    "ArtMeshGestV4p_Image_124": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 439
+    },
+    "ArtMeshGestV4p_Image_121_Right": {
+      "rule": "hair-island",
+      "texels": 57264
+    },
+    "ArtMeshGestV4p_Image_129_Right": {
+      "rule": "hair-island",
+      "texels": 104383
+    },
+    "ArtMeshGestV4p_G4_upper_r": {
+      "rule": "hair-island",
+      "texels": 452258
+    },
+    "ArtMeshGestV4p_G4_upper_l": {
+      "rule": "hair-island",
+      "texels": 433580
+    },
+    "ArtMeshGestV4p_G2_upper_r": {
+      "rule": "hair-island",
+      "texels": 452258
+    },
+    "ArtMeshGestV4p_G2_upper_l": {
+      "rule": "hair-island",
+      "texels": 433580
+    },
+    "ArtMeshGestV4p_G1_inner_hair_backing": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G1_shoulder_underlap_r": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G4_inner_hair_backing": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G4_shoulder_underlap_l": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G4_shoulder_underlap_r": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G2_inner_hair_backing": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G2_shoulder_underlap_l": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshGestV4p_G2_shoulder_underlap_r": {
+      "rule": "hair-island",
+      "texels": 1
+    },
+    "ArtMeshLocalHairPatchV4r_113": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 3261
+    },
+    "ArtMeshLocalHairPatchV4r_114": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 1848
+    },
+    "ArtMeshLocalHairPatchV4r_124": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 439
+    },
+    "ArtMeshLocalHairPatchV4r_127": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 597
+    },
+    "ArtMeshV4s_113": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 3261
+    },
+    "ArtMeshV4s_114": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 1848
+    },
+    "ArtMeshV4u_G4_forearm_l": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 5414
+    },
+    "ArtMeshV4u_G4_forearm_r": {
+      "rule": "mixed-hair-seed-fringe",
+      "texels": 5750
+    }
+  },
+  "texture_sha256": {
+    "1": "57310f9661ca0330db3a071a2b10ddade6a5672d857b4bbeb5285ab69f456b90",
+    "0": "5aaeeb4189cb9b717fed5b896f3a8ae34570500be60ed797a97ecdb1877a4799",
+    "5": "5cb8e43e633e3023b607d9df78fc013446451565a27fc1de3f898b578332a81d",
+    "6": "8a873692b18ecaa11148967c6c8b9f6e2ca929ab4ac302ccaaace031c1a00293",
+    "7": "43423a076416f385b3670819e850cdb398a3f2fb53fe8006f9626316ca679178",
+    "10": "7dc363b2f903ea6acc9d9193f3dd455309e153de555f550ab6c3434a268cf8ee"
+  },
+  "whole_pages": {
+    "brows": 2,
+    "underpaint": 4
+  },
+  "masks": [
+    {
+      "role": "headband",
+      "page": 0,
+      "file": "headband_page0.png",
+      "texels": 889591,
+      "drawables": [
+        "ArtMeshGestV4p_G2_upper_l",
+        "ArtMeshGestV4p_G2_upper_r",
+        "ArtMeshGestV4p_G4_upper_l",
+        "ArtMeshGestV4p_G4_upper_r",
+        "ArtMeshHeadwear"
+      ]
+    },
+    {
+      "role": "headband",
+      "page": 1,
+      "file": "headband_page1.png",
+      "texels": 9952,
+      "drawables": [
+        "ArtMeshChefV4qFront",
+        "ArtMeshImage"
+      ]
+    },
+    {
+      "role": "headband",
+      "page": 5,
+      "file": "headband_page5.png",
+      "texels": 152320,
+      "drawables": [
+        "ArtMeshGestV4p_G1_inner_hair_backing",
+        "ArtMeshGestV4p_G1_shoulder_underlap_r",
+        "ArtMeshGestV4p_Image_108",
+        "ArtMeshGestV4p_Image_109",
+        "ArtMeshGestV4p_Image_111",
+        "ArtMeshGestV4p_Image_112"
+      ]
+    },
+    {
+      "role": "headband",
+      "page": 6,
+      "file": "headband_page6.png",
+      "texels": 113151,
+      "drawables": [
+        "ArtMeshGestV4p_G4_inner_hair_backing",
+        "ArtMeshGestV4p_G4_shoulder_underlap_l",
+        "ArtMeshGestV4p_G4_shoulder_underlap_r",
+        "ArtMeshGestV4p_Image_113",
+        "ArtMeshGestV4p_Image_114",
+        "ArtMeshGestV4p_Image_120",
+        "ArtMeshGestV4p_Image_121",
+        "ArtMeshGestV4p_Image_121_Right",
+        "ArtMeshLocalHairPatchV4r_113",
+        "ArtMeshLocalHairPatchV4r_114",
+        "ArtMeshV4s_113",
+        "ArtMeshV4s_114"
+      ]
+    },
+    {
+      "role": "headband",
+      "page": 7,
+      "file": "headband_page7.png",
+      "texels": 203667,
+      "drawables": [
+        "ArtMeshGestV4p_G2_inner_hair_backing",
+        "ArtMeshGestV4p_G2_shoulder_underlap_l",
+        "ArtMeshGestV4p_G2_shoulder_underlap_r",
+        "ArtMeshGestV4p_Image_124",
+        "ArtMeshGestV4p_Image_125",
+        "ArtMeshGestV4p_Image_126",
+        "ArtMeshGestV4p_Image_127",
+        "ArtMeshGestV4p_Image_128",
+        "ArtMeshGestV4p_Image_129",
+        "ArtMeshGestV4p_Image_129_Right",
+        "ArtMeshLocalHairPatchV4r_124",
+        "ArtMeshLocalHairPatchV4r_127"
+      ]
+    },
+    {
+      "role": "headband",
+      "page": 10,
+      "file": "headband_page10.png",
+      "texels": 11164,
+      "drawables": [
+        "ArtMeshV4u_G4_forearm_l",
+        "ArtMeshV4u_G4_forearm_r"
+      ]
+    },
+    {
+      "role": "tail",
+      "page": 1,
+      "file": "tail_page1.png",
+      "texels": 232750,
+      "drawables": [
+        "ArtMeshTail"
+      ]
+    },
+    {
+      "role": "bow",
+      "page": 1,
+      "file": "bow_page1.png",
+      "texels": 17380,
+      "drawables": [
+        "ArtMeshHeadwearL",
+        "ArtMeshHeadwearR"
+      ]
+    },
+    {
+      "role": "bow",
+      "page": 0,
+      "file": "bow_page0.png",
+      "texels": 5453,
+      "drawables": [
+        "ArtMeshImage_28",
+        "ArtMeshImage_29"
+      ]
+    },
+    {
+      "role": "neckbow",
+      "page": 0,
+      "file": "neckbow_page0.png",
+      "texels": 42245,
+      "drawables": [
+        "ArtMeshFootwearL",
+        "ArtMeshFootwearR",
+        "ArtMeshLegwearL",
+        "ArtMeshLegwearR",
+        "ArtMeshTopwear"
+      ]
+    },
+    {
+      "role": "iris",
+      "page": 0,
+      "file": "iris_page0.png",
+      "texels": 15414,
+      "drawables": [
+        "ArtMeshImage_19",
+        "ArtMeshImage_20",
+        "ArtMeshIridesL",
+        "ArtMeshIridesR"
+      ]
+    },
+    {
+      "role": "iris",
+      "page": 1,
+      "file": "iris_page1.png",
+      "texels": 2513,
+      "drawables": [
+        "ArtMeshImage_21",
+        "ArtMeshImage_22"
+      ]
+    }
+  ]
+}

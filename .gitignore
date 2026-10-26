@@ -1,0 +1,17 @@
+.*
+!.gitignore
+/PUBLISH_NOTES.md
+/_publish/
+/_release/
+/_tmp/
+/renders/
+**/__pycache__/
+*.log
+*.zip
+*.moc3
+*.cmo3
+/facetrack/vendor/*
+!/facetrack/vendor/README.md
+/facetrack/node_modules/
+/facetrack/_test_media/
+/hair_masks/latest/

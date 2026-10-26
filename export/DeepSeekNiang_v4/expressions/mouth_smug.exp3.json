@@ -1,0 +1,47 @@
+{
+ "Type": "Live2D Expression",
+ "FadeInTime": 0,
+ "FadeOutTime": 0,
+ "Parameters": [
+  {
+   "Id": "ParamMouthSmug",
+   "Value": 1,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthPress",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthShrug",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthPout",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthCat",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthO",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthQWave",
+   "Value": 0,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamMouthQFlat",
+   "Value": 0,
+   "Blend": "Overwrite"
+  }
+ ]
+}

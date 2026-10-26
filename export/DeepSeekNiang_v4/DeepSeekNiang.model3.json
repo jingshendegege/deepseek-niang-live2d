@@ -1,0 +1,276 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "DeepSeekNiang.moc3",
+    "Textures": [
+      "DeepSeekNiang.4096/texture_00.png",
+      "DeepSeekNiang.4096/texture_01.png",
+      "DeepSeekNiang.4096/texture_02.png",
+      "DeepSeekNiang.4096/texture_03.png",
+      "DeepSeekNiang.4096/texture_04.png",
+      "DeepSeekNiang.4096/texture_05.png",
+      "DeepSeekNiang.4096/texture_06.png",
+      "DeepSeekNiang.4096/texture_07.png",
+      "DeepSeekNiang.4096/texture_08.png",
+      "DeepSeekNiang.4096/texture_09.png",
+      "DeepSeekNiang.4096/texture_10.png",
+      "DeepSeekNiang.4096/texture_11.png",
+      "DeepSeekNiang.4096/texture_12.png",
+      "DeepSeekNiang.4096/texture_13.png"
+    ],
+    "Physics": "DeepSeekNiang.physics3.json",
+    "DisplayInfo": "DeepSeekNiang.cdi3.json",
+    "Motions": {
+      "Idle": [
+        {
+          "File": "DeepSeekNiang.upperIdle.motion3.json"
+        },
+        {
+          "File": "DeepSeekNiang.upperIdleCute.motion3.json"
+        }
+      ],
+      "Upper Blink": [
+        {
+          "File": "DeepSeekNiang.upperBlink.motion3.json"
+        }
+      ],
+      "Upper Nod": [
+        {
+          "File": "DeepSeekNiang.upperNod.motion3.json"
+        }
+      ],
+      "Upper Shake": [
+        {
+          "File": "DeepSeekNiang.upperShake.motion3.json"
+        }
+      ],
+      "Upper TailSwing": [
+        {
+          "File": "DeepSeekNiang.upperTailSwing.motion3.json"
+        }
+      ],
+      "Upper Shy": [
+        {
+          "File": "DeepSeekNiang.upperShy.motion3.json"
+        }
+      ],
+      "Upper Wave": [
+        {
+          "File": "DeepSeekNiang.upperWave.motion3.json"
+        }
+      ],
+      "Upper HeadTilt": [
+        {
+          "File": "DeepSeekNiang.upperHeadTilt.motion3.json"
+        }
+      ],
+      "Upper Cheer": [
+        {
+          "File": "DeepSeekNiang.upperCheer.motion3.json"
+        }
+      ],
+      "Upper Sway": [
+        {
+          "File": "DeepSeekNiang.upperSway.motion3.json"
+        }
+      ],
+      "v4e upper showcase": [
+        {
+          "File": "DeepSeekNiang.v4eUpperShowcase.motion3.json"
+        }
+      ],
+      "招手": [
+        {
+          "File": "DeepSeekNiang.g1_wave.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "捧饭碗待机": [
+        {
+          "File": "DeepSeekNiang.g4_bowl_idle.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ],
+      "加油": [
+        {
+          "File": "DeepSeekNiang.g2_cheer.motion3.json",
+          "FadeInTime": 0,
+          "FadeOutTime": 0
+        }
+      ]
+    },
+    "Expressions": [
+      {
+        "Name": "闭眼大哭",
+        "File": "expressions/cry_big.exp3.json"
+      },
+      {
+        "Name": "开心用力眯眼 ><",
+        "File": "expressions/q_squint.exp3.json"
+      },
+      {
+        "Name": "瀑布泪哭脸 T T",
+        "File": "expressions/q_cry.exp3.json"
+      },
+      {
+        "Name": "晕眼 @ @",
+        "File": "expressions/q_dizzy.exp3.json"
+      },
+      {
+        "Name": "无语 - -",
+        "File": "expressions/q_deadpan.exp3.json"
+      },
+      {
+        "Name": "笑眼",
+        "File": "expressions/smile.exp3.json"
+      },
+      {
+        "Name": "脸红",
+        "File": "expressions/blush.exp3.json"
+      },
+      {
+        "Name": "害羞",
+        "File": "expressions/shy.exp3.json"
+      },
+      {
+        "Name": "星星眼",
+        "File": "expressions/star.exp3.json"
+      },
+      {
+        "Name": "爱心眼",
+        "File": "expressions/heart.exp3.json"
+      },
+      {
+        "Name": "哭",
+        "File": "expressions/tears.exp3.json"
+      },
+      {
+        "Name": "黑脸",
+        "File": "expressions/gloom.exp3.json"
+      },
+      {
+        "Name": "流汗",
+        "File": "expressions/sweat.exp3.json"
+      },
+      {
+        "Name": "生气",
+        "File": "expressions/angry.exp3.json"
+      },
+      {
+        "Name": "猫嘴 ω",
+        "File": "expressions/cat_mouth.exp3.json"
+      },
+      {
+        "Name": "小圆嘴 o",
+        "File": "expressions/o_mouth.exp3.json"
+      },
+      {
+        "Name": "饰品 铁盆",
+        "File": "expressions/acc_basin.exp3.json"
+      },
+      {
+        "Name": "饰品 厨师帽",
+        "File": "expressions/acc_chef.exp3.json"
+      },
+      {
+        "Name": "饰品 眼镜",
+        "File": "expressions/acc_glasses.exp3.json"
+      },
+      {
+        "Name": "饰品 饭粒",
+        "File": "expressions/acc_rice.exp3.json"
+      },
+      {
+        "Name": "饰品 鲸鱼发夹",
+        "File": "expressions/acc_clip.exp3.json"
+      },
+      {
+        "Name": "皮肤 黑色女仆",
+        "File": "expressions/skin_black.exp3.json"
+      },
+      {
+        "Name": "抿嘴",
+        "File": "expressions/mouth_press.exp3.json"
+      },
+      {
+        "Name": "撇嘴",
+        "File": "expressions/mouth_shrug.exp3.json"
+      },
+      {
+        "Name": "撅嘴 3",
+        "File": "expressions/mouth_pout.exp3.json"
+      },
+      {
+        "Name": "得意猫嘴",
+        "File": "expressions/mouth_smug.exp3.json"
+      },
+      {
+        "Name": "招手",
+        "File": "expressions/g1_wave.exp3.json"
+      },
+      {
+        "Name": "捧饭碗",
+        "File": "expressions/g4_bowl.exp3.json"
+      },
+      {
+        "Name": "加油",
+        "File": "expressions/g2_cheer.exp3.json"
+      },
+      {
+        "Name": "Claude 菊花",
+        "File": "expressions/acc_ai_claude.exp3.json"
+      },
+      {
+        "Name": "GPT 盘长结",
+        "File": "expressions/acc_ai_gpt.exp3.json"
+      },
+      {
+        "Name": "Gemini 星星",
+        "File": "expressions/acc_ai_gemini.exp3.json"
+      },
+      {
+        "Name": "Grok X 徽记",
+        "File": "expressions/acc_ai_grok.exp3.json"
+      },
+      {
+        "Name": "千问徽章",
+        "File": "expressions/acc_ai_qwen.exp3.json"
+      },
+      {
+        "Name": "GLM Z 徽章",
+        "File": "expressions/acc_ai_glm.exp3.json"
+      },
+      {
+        "Name": "Kimi 月牙",
+        "File": "expressions/acc_ai_kimi.exp3.json"
+      },
+      {
+        "Name": "MiniMax 声波",
+        "File": "expressions/acc_ai_minimax.exp3.json"
+      },
+      {
+        "Name": "New Bing b 标志",
+        "File": "expressions/acc_ai_bing.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

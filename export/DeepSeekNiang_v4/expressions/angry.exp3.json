@@ -1,0 +1,32 @@
+{
+ "Type": "Live2D Expression",
+ "FadeInTime": 0.25,
+ "FadeOutTime": 0.25,
+ "Parameters": [
+  {
+   "Id": "ParamAngry",
+   "Value": 1,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamBrowLAngle",
+   "Value": 1,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamBrowRAngle",
+   "Value": 1,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamBrowLY",
+   "Value": -0.5,
+   "Blend": "Add"
+  },
+  {
+   "Id": "ParamBrowRY",
+   "Value": -0.5,
+   "Blend": "Add"
+  }
+ ]
+}

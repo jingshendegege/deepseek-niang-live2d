@@ -1,0 +1,12 @@
+{
+ "Type": "Live2D Expression",
+ "FadeInTime": 0.4,
+ "FadeOutTime": 0.4,
+ "Parameters": [
+  {
+   "Id": "ParamSkinBlack",
+   "Value": 1,
+   "Blend": "Overwrite"
+  }
+ ]
+}

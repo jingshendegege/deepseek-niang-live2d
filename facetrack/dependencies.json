@@ -1,0 +1,104 @@
+[
+  {
+    "name": "pixi.js",
+    "version": "6.5.10",
+    "source": "https://registry.npmjs.org/pixi.js/-/pixi.js-6.5.10.tgz",
+    "files": [
+      {
+        "file": "vendor/pixi/LICENSE",
+        "bytes": 1092,
+        "sha256": "536a16e090f0b6c1454a7c0b47ee8414a39a2f1724a154f10ca1edc750a2dcfd"
+      },
+      {
+        "file": "vendor/pixi/dist/browser/pixi.min.js",
+        "bytes": 460333,
+        "sha256": "403f2f2ee8145fa17f60c5c89403056efe2680e5096ec2762036486914ed19c5"
+      },
+      {
+        "file": "vendor/pixi/package.json",
+        "bytes": 2555,
+        "sha256": "905513cc3a84686300878af6d47137dc47c80fcaa301671bdbd0da7d8ad77d18"
+      }
+    ]
+  },
+  {
+    "name": "pixi-live2d-display",
+    "version": "0.4.0",
+    "source": "https://registry.npmjs.org/pixi-live2d-display/-/pixi-live2d-display-0.4.0.tgz",
+    "files": [
+      {
+        "file": "vendor/live2d/LICENSE",
+        "bytes": 1061,
+        "sha256": "8ccace668a041e78ed525d091b0b5daf8b623ff447f912616de535415e4f302f"
+      },
+      {
+        "file": "vendor/live2d/package.json",
+        "bytes": 2826,
+        "sha256": "ca9657bdefaed2ad835675d92568fd0092746311abc6da9dab9ba42c61d9924e"
+      },
+      {
+        "file": "vendor/live2d/dist/cubism4.js",
+        "bytes": 224911,
+        "sha256": "fb65789289e4471b6b70829ea3a188c97174f2ebfa840bc0f3fc6ab7ce238075"
+      },
+      {
+        "file": "vendor/live2d/dist/cubism4.min.js",
+        "bytes": 119922,
+        "sha256": "af1267e6d52759b245766c578d905bfa025b532d5c3cc727c370957c4409e21b"
+      }
+    ]
+  },
+  {
+    "name": "@mediapipe/tasks-vision",
+    "version": "0.10.21",
+    "source": "https://registry.npmjs.org/@mediapipe/tasks-vision/-/tasks-vision-0.10.21.tgz",
+    "files": [
+      {
+        "file": "vendor/mediapipe/wasm/vision_wasm_internal.js",
+        "bytes": 204284,
+        "sha256": "4a97e2520ba506c680ecd6ba6acfb146888afa0e2746d57f205352bc6ebb82eb"
+      },
+      {
+        "file": "vendor/mediapipe/wasm/vision_wasm_nosimd_internal.js",
+        "bytes": 204137,
+        "sha256": "927def7b465c51b86e4b3060f93646aca4e27121f4b8fc0483786e407ea9cf1f"
+      },
+      {
+        "file": "vendor/mediapipe/package.json",
+        "bytes": 592,
+        "sha256": "18e96c370b666f1f6b096c96255f19a4750522d207cff5dc721aeb4c4e4da701"
+      },
+      {
+        "file": "vendor/mediapipe/README.md",
+        "bytes": 8937,
+        "sha256": "7ba4e6e531c8a158020d545025024ab636e0e54bbcdd01dbc37b618506ef3d2e"
+      },
+      {
+        "file": "vendor/mediapipe/vision_bundle.mjs",
+        "bytes": 137735,
+        "sha256": "40f4123dfcd75cfa58add046919cc6f52fde66f009ff582997c09ba54c6ba27c"
+      },
+      {
+        "file": "vendor/mediapipe/wasm/vision_wasm_internal.wasm",
+        "bytes": 9574032,
+        "sha256": "f00ec4731faa23b3e714d00e88d4d10e2df5c0a427d3a2b4ae6e3526fdd14ef7"
+      },
+      {
+        "file": "vendor/mediapipe/wasm/vision_wasm_nosimd_internal.wasm",
+        "bytes": 9448638,
+        "sha256": "3821ea9b1f7fb8c549ef2a064ef5c85750bf375c545a49fd6eea0df44a95f1f4"
+      }
+    ]
+  },
+  {
+    "name": "Face Landmarker float16 / version 1",
+    "source": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task",
+    "files": [
+      {
+        "file": "vendor/mediapipe/face_landmarker.task",
+        "bytes": 3758596,
+        "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff"
+      }
+    ]
+  }
+]

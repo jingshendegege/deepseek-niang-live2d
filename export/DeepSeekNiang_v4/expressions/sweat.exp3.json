@@ -1,0 +1,22 @@
+{
+ "Type": "Live2D Expression",
+ "FadeInTime": 0.25,
+ "FadeOutTime": 0.25,
+ "Parameters": [
+  {
+   "Id": "ParamSweat",
+   "Value": 1,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamBrowLAngle",
+   "Value": -0.7,
+   "Blend": "Overwrite"
+  },
+  {
+   "Id": "ParamBrowRAngle",
+   "Value": -0.7,
+   "Blend": "Overwrite"
+  }
+ ]
+}

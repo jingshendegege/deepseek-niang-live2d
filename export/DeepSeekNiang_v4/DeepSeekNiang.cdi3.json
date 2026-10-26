@@ -1,0 +1,1731 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamSwingskirtbackv4d",
+			"GroupId": "",
+			"Name": "后摆衬裙"
+		},
+		{
+			"Id": "ParamSwingskirtback_Y",
+			"GroupId": "",
+			"Name": "skirt_back Y"
+		},
+		{
+			"Id": "ParamSwingskirtback_X",
+			"GroupId": "",
+			"Name": "skirt_back X"
+		},
+		{
+			"Id": "ParamSwingapron_Y",
+			"GroupId": "",
+			"Name": "apron Y"
+		},
+		{
+			"Id": "ParamSwingapron_X",
+			"GroupId": "",
+			"Name": "apron X"
+		},
+		{
+			"Id": "ParamSwingpetticoat_Y",
+			"GroupId": "",
+			"Name": "petticoat Y"
+		},
+		{
+			"Id": "ParamSwingpetticoat_X_2",
+			"GroupId": "",
+			"Name": "petticoat X 2"
+		},
+		{
+			"Id": "ParamSwingpetticoat_X_1",
+			"GroupId": "",
+			"Name": "petticoat X 1"
+		},
+		{
+			"Id": "ParamSwingskirtfront_Y",
+			"GroupId": "",
+			"Name": "skirt_front Y"
+		},
+		{
+			"Id": "ParamSwingskirtfront_X_2",
+			"GroupId": "",
+			"Name": "skirt_front X 2"
+		},
+		{
+			"Id": "ParamSwingskirtfront_X_1",
+			"GroupId": "",
+			"Name": "skirt_front X 1"
+		},
+		{
+			"Id": "ParamSwingbackhairl_Y",
+			"GroupId": "",
+			"Name": "后发 左摇动 Y"
+		},
+		{
+			"Id": "ParamSwingbackhairl_X_3",
+			"GroupId": "",
+			"Name": "后发 左摇动 X 3"
+		},
+		{
+			"Id": "ParamSwingbackhairl_X_2",
+			"GroupId": "",
+			"Name": "后发 左摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingbackhairl_X_1",
+			"GroupId": "",
+			"Name": "后发 左摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingbackhairr_Y",
+			"GroupId": "",
+			"Name": "后发 右摇动 Y"
+		},
+		{
+			"Id": "ParamSwingbackhairr_X_3",
+			"GroupId": "",
+			"Name": "后发 右摇动 X 3"
+		},
+		{
+			"Id": "ParamSwingbackhairr_X_2",
+			"GroupId": "",
+			"Name": "后发 右摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingbackhairr_X_1",
+			"GroupId": "",
+			"Name": "后发 右摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingfhlockl_Y",
+			"GroupId": "",
+			"Name": "胸前长发 左摇动 Y"
+		},
+		{
+			"Id": "ParamSwingfhlockl_X_3",
+			"GroupId": "",
+			"Name": "胸前长发 左摇动 X 3"
+		},
+		{
+			"Id": "ParamSwingfhlockl_X_2",
+			"GroupId": "",
+			"Name": "胸前长发 左摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingfhlockl_X_1",
+			"GroupId": "",
+			"Name": "胸前长发 左摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingfhlockr_Y",
+			"GroupId": "",
+			"Name": "胸前长发 右摇动 Y"
+		},
+		{
+			"Id": "ParamSwingfhlockr_X_3",
+			"GroupId": "",
+			"Name": "胸前长发 右摇动 X 3"
+		},
+		{
+			"Id": "ParamSwingfhlockr_X_2",
+			"GroupId": "",
+			"Name": "胸前长发 右摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingfhlockr_X_1",
+			"GroupId": "",
+			"Name": "胸前长发 右摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingfhsidel_Y",
+			"GroupId": "",
+			"Name": "前发 左侧摇动 Y"
+		},
+		{
+			"Id": "ParamSwingfhsidel_X_2",
+			"GroupId": "",
+			"Name": "前发 左侧摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingfhsidel_X_1",
+			"GroupId": "",
+			"Name": "前发 左侧摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingfhsider_Y",
+			"GroupId": "",
+			"Name": "前发 右侧摇动 Y"
+		},
+		{
+			"Id": "ParamSwingfhsider_X_2",
+			"GroupId": "",
+			"Name": "前发 右侧摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingfhsider_X_1",
+			"GroupId": "",
+			"Name": "前发 右侧摇动 X 1"
+		},
+		{
+			"Id": "ParamSwingfhcenter_Y",
+			"GroupId": "",
+			"Name": "前发 中摇动 Y"
+		},
+		{
+			"Id": "ParamSwingfhcenter_X_2",
+			"GroupId": "",
+			"Name": "前发 中摇动 X 2"
+		},
+		{
+			"Id": "ParamSwingfhcenter_X_1",
+			"GroupId": "",
+			"Name": "前发 中摇动 X 1"
+		},
+		{
+			"Id": "ParamSwinghll_Y",
+			"GroupId": "",
+			"Name": "左眼高光晃动 Y"
+		},
+		{
+			"Id": "ParamSwinghll_X",
+			"GroupId": "",
+			"Name": "左眼高光晃动 X"
+		},
+		{
+			"Id": "ParamSwinghlr_Y",
+			"GroupId": "",
+			"Name": "右眼高光晃动 Y"
+		},
+		{
+			"Id": "ParamSwinghlr_X",
+			"GroupId": "",
+			"Name": "右眼高光晃动 X"
+		},
+		{
+			"Id": "ParamSwingahoge_Y",
+			"GroupId": "",
+			"Name": "呆毛摇晃 Y"
+		},
+		{
+			"Id": "ParamSwingahoge_X_2",
+			"GroupId": "",
+			"Name": "呆毛摇晃 X 2"
+		},
+		{
+			"Id": "ParamSwingahoge_X_1",
+			"GroupId": "",
+			"Name": "呆毛摇晃 X 1"
+		},
+		{
+			"Id": "ParamSwingbowl",
+			"GroupId": "",
+			"Name": "左蝴蝶结摆动"
+		},
+		{
+			"Id": "ParamSwingbowr",
+			"GroupId": "",
+			"Name": "右蝴蝶结摆动"
+		},
+		{
+			"Id": "ParamSwingfinl",
+			"GroupId": "",
+			"Name": "左鳍耳扇动"
+		},
+		{
+			"Id": "ParamSwingfinr",
+			"GroupId": "",
+			"Name": "右鳍耳扇动"
+		},
+		{
+			"Id": "ParamCryBig",
+			"GroupId": "",
+			"Name": "闭眼大哭"
+		},
+		{
+			"Id": "ParamMouthSmug",
+			"GroupId": "",
+			"Name": "得意猫嘴"
+		},
+		{
+			"Id": "ParamMouthPout",
+			"GroupId": "",
+			"Name": "撅嘴 3"
+		},
+		{
+			"Id": "ParamMouthShrug",
+			"GroupId": "",
+			"Name": "撇嘴"
+		},
+		{
+			"Id": "ParamMouthPress",
+			"GroupId": "",
+			"Name": "抿嘴"
+		},
+		{
+			"Id": "ParamMouthQFlat",
+			"GroupId": "",
+			"Name": "Q · MouthQFlat"
+		},
+		{
+			"Id": "ParamMouthQWave",
+			"GroupId": "",
+			"Name": "Q · MouthQWave"
+		},
+		{
+			"Id": "ParamEyeQDeadpan",
+			"GroupId": "",
+			"Name": "Q · EyeQDeadpan"
+		},
+		{
+			"Id": "ParamEyeQDizzy",
+			"GroupId": "",
+			"Name": "Q · EyeQDizzy"
+		},
+		{
+			"Id": "ParamEyeQCry",
+			"GroupId": "",
+			"Name": "Q · EyeQCry"
+		},
+		{
+			"Id": "ParamEyeQSquint",
+			"GroupId": "",
+			"Name": "Q · EyeQSquint"
+		},
+		{
+			"Id": "ParamSkinBlack",
+			"GroupId": "",
+			"Name": "皮肤·黑色女仆"
+		},
+		{
+			"Id": "ParamMouthO",
+			"GroupId": "",
+			"Name": "小圆嘴 o"
+		},
+		{
+			"Id": "ParamMouthCat",
+			"GroupId": "",
+			"Name": "猫嘴 ω"
+		},
+		{
+			"Id": "ParamEyeHeart",
+			"GroupId": "",
+			"Name": "爱心眼"
+		},
+		{
+			"Id": "ParamEyeStar",
+			"GroupId": "",
+			"Name": "星星眼"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼 笑眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼 笑眼"
+		},
+		{
+			"Id": "ParamAngry",
+			"GroupId": "",
+			"Name": "生气符号"
+		},
+		{
+			"Id": "ParamSweat",
+			"GroupId": "",
+			"Name": "汗"
+		},
+		{
+			"Id": "ParamGloom",
+			"GroupId": "",
+			"Name": "黑脸"
+		},
+		{
+			"Id": "ParamTear",
+			"GroupId": "",
+			"Name": "泪"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸红"
+		},
+		{
+			"Id": "ParamAccClip",
+			"GroupId": "",
+			"Name": "饰品·鲸鱼发夹"
+		},
+		{
+			"Id": "ParamAccRice",
+			"GroupId": "",
+			"Name": "饰品·饭粒"
+		},
+		{
+			"Id": "ParamAccGlasses",
+			"GroupId": "",
+			"Name": "饰品·眼镜"
+		},
+		{
+			"Id": "ParamAccChef",
+			"GroupId": "",
+			"Name": "饰品·厨师帽"
+		},
+		{
+			"Id": "ParamAccBasin",
+			"GroupId": "",
+			"Name": "饰品·铁盆"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉角度"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroupFace",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroupEyes",
+			"Name": "左眼开合"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroupEyes",
+			"Name": "右眼开合"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroupEyes",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroupEyes",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamEyeBallForm",
+			"GroupId": "ParamGroupEyes",
+			"Name": "果冻眼"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroupBrows",
+			"Name": "左眉 Y"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroupBrows",
+			"Name": "右眉 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroupMouth",
+			"Name": "嘴型"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroupMouth",
+			"Name": "嘴巴开合"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体角度 Z"
+		},
+		{
+			"Id": "ParamBodyLean",
+			"GroupId": "ParamGroupBody",
+			"Name": "身体前后倾"
+		},
+		{
+			"Id": "ParamProportion",
+			"GroupId": "ParamGroupBody",
+			"Name": "大小变（头身比）"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroupBody",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamSkelUpperBody",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "上身"
+		},
+		{
+			"Id": "ParamArmLA",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左大臂"
+		},
+		{
+			"Id": "ParamArmLB",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左小臂"
+		},
+		{
+			"Id": "ParamHandL",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左手"
+		},
+		{
+			"Id": "ParamArmRA",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右大臂"
+		},
+		{
+			"Id": "ParamArmRB",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右小臂"
+		},
+		{
+			"Id": "ParamHandR",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右手"
+		},
+		{
+			"Id": "ParamSkelLowerBody",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "下身"
+		},
+		{
+			"Id": "ParamLegLA",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左大腿"
+		},
+		{
+			"Id": "ParamLegLB",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左小腿"
+		},
+		{
+			"Id": "ParamFootL",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "左脚"
+		},
+		{
+			"Id": "ParamLegRA",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右大腿"
+		},
+		{
+			"Id": "ParamLegRB",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右小腿"
+		},
+		{
+			"Id": "ParamFootR",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "右脚"
+		},
+		{
+			"Id": "ParamTail1",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "尾巴 1"
+		},
+		{
+			"Id": "ParamTail2",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "尾巴 2"
+		},
+		{
+			"Id": "ParamTail3",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "尾巴 3"
+		},
+		{
+			"Id": "ParamTail4",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "尾巴 4"
+		},
+		{
+			"Id": "ParamSkelCrouch",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "下蹲"
+		},
+		{
+			"Id": "ParamSkelWeight",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "重心转移"
+		},
+		{
+			"Id": "ParamSkelKneesIn",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "膝盖内扣"
+		},
+		{
+			"Id": "ParamSkelHop",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "弹起"
+		},
+		{
+			"Id": "ParamSkelTailSwing",
+			"GroupId": "ParamGroupSkeleton",
+			"Name": "甩尾"
+		},
+		{
+			"Id": "ParamGestureWave",
+			"GroupId": "",
+			"Name": "G1 招手开关"
+		},
+		{
+			"Id": "ParamWaveSwing",
+			"GroupId": "",
+			"Name": "G1 招手摆动"
+		},
+		{
+			"Id": "ParamGestureBowl",
+			"GroupId": "",
+			"Name": "G4 捧饭碗开关"
+		},
+		{
+			"Id": "ParamBowlSteam",
+			"GroupId": "",
+			"Name": "G4 热气循环"
+		},
+		{
+			"Id": "ParamGestureCheer",
+			"GroupId": "",
+			"Name": "G2 加油开关"
+		},
+		{
+			"Id": "ParamCheerPump",
+			"GroupId": "",
+			"Name": "G2 加油起伏"
+		},
+		{
+			"Id": "ParamAccClaude",
+			"GroupId": "",
+			"Name": "ParamAccClaude"
+		},
+		{
+			"Id": "ParamAccGPT",
+			"GroupId": "",
+			"Name": "ParamAccGPT"
+		},
+		{
+			"Id": "ParamAccGPTSwing",
+			"GroupId": "",
+			"Name": "ParamAccGPTSwing"
+		},
+		{
+			"Id": "ParamAccGemini",
+			"GroupId": "",
+			"Name": "ParamAccGemini"
+		},
+		{
+			"Id": "ParamAccGeminiSwing",
+			"GroupId": "",
+			"Name": "ParamAccGeminiSwing"
+		},
+		{
+			"Id": "ParamAccGrok",
+			"GroupId": "",
+			"Name": "ParamAccGrok"
+		},
+		{
+			"Id": "ParamAccQwen",
+			"GroupId": "",
+			"Name": "ParamAccQwen"
+		},
+		{
+			"Id": "ParamAccQwenSwing",
+			"GroupId": "",
+			"Name": "ParamAccQwenSwing"
+		},
+		{
+			"Id": "ParamAccGLM",
+			"GroupId": "",
+			"Name": "ParamAccGLM"
+		},
+		{
+			"Id": "ParamAccGLMSwing",
+			"GroupId": "",
+			"Name": "ParamAccGLMSwing"
+		},
+		{
+			"Id": "ParamAccKimi",
+			"GroupId": "",
+			"Name": "ParamAccKimi"
+		},
+		{
+			"Id": "ParamAccKimiSwing",
+			"GroupId": "",
+			"Name": "ParamAccKimiSwing"
+		},
+		{
+			"Id": "ParamAccMiniMax",
+			"GroupId": "",
+			"Name": "ParamAccMiniMax"
+		},
+		{
+			"Id": "ParamAccMiniMaxSwing",
+			"GroupId": "",
+			"Name": "ParamAccMiniMaxSwing"
+		},
+		{
+			"Id": "ParamAccBing",
+			"GroupId": "",
+			"Name": "ParamAccBing"
+		},
+		{
+			"Id": "ParamAccBingSwing",
+			"GroupId": "",
+			"Name": "ParamAccBingSwing"
+		},
+		{
+			"Id": "ParamAccBingHeadset",
+			"GroupId": "",
+			"Name": "New Bing archived headset"
+		},
+		{
+			"Id": "ParamSkirtBounce",
+			"GroupId": "",
+			"Name": "裙子 Q 弹"
+		},
+		{
+			"Id": "ParamSkirtHemLag",
+			"GroupId": "",
+			"Name": "下摆延迟"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroupFace",
+			"GroupId": "",
+			"Name": "面部"
+		},
+		{
+			"Id": "ParamGroupEyes",
+			"GroupId": "",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "ParamGroupBrows",
+			"GroupId": "",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "ParamGroupMouth",
+			"GroupId": "",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "ParamGroupBody",
+			"GroupId": "",
+			"Name": "身体"
+		},
+		{
+			"Id": "ParamGroupPhysics",
+			"GroupId": "",
+			"Name": "物理"
+		},
+		{
+			"Id": "ParamGroupSkeleton",
+			"GroupId": "",
+			"Name": "骨骼"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "PartHead",
+			"Name": "头部"
+		},
+		{
+			"Id": "PartHairBack",
+			"Name": "后发"
+		},
+		{
+			"Id": "PartFace",
+			"Name": "面部"
+		},
+		{
+			"Id": "PartHairFront",
+			"Name": "前发"
+		},
+		{
+			"Id": "PartHeadAccessories",
+			"Name": "头部附件"
+		},
+		{
+			"Id": "PartExtra",
+			"Name": "附加物"
+		},
+		{
+			"Id": "PartBody",
+			"Name": "身体"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		]
+	],
+	"Drawables": [
+		{
+			"Id": "ArtMeshHeadwearL",
+			"Name": "bow-l"
+		},
+		{
+			"Id": "ArtMeshHeadwearR",
+			"Name": "bow-r"
+		},
+		{
+			"Id": "ArtMeshHeadwear",
+			"Name": "headdress"
+		},
+		{
+			"Id": "ArtMeshEarsL",
+			"Name": "fin-l"
+		},
+		{
+			"Id": "ArtMeshEarsR",
+			"Name": "fin-r"
+		},
+		{
+			"Id": "ArtMeshEyebrowL",
+			"Name": "hair strand-l"
+		},
+		{
+			"Id": "ArtMeshEyebrowR",
+			"Name": "hair strand-r"
+		},
+		{
+			"Id": "ArtMeshEyeCloseL",
+			"Name": "eye close-l"
+		},
+		{
+			"Id": "ArtMeshEyeCloseR",
+			"Name": "eye close-r"
+		},
+		{
+			"Id": "ArtMeshEyelashL",
+			"Name": "eyelash-l"
+		},
+		{
+			"Id": "ArtMeshEyelashR",
+			"Name": "eyelash-r"
+		},
+		{
+			"Id": "ArtMeshMouthClose",
+			"Name": "mouth close"
+		},
+		{
+			"Id": "ArtMeshIridesL",
+			"Name": "irides-l"
+		},
+		{
+			"Id": "ArtMeshIridesR",
+			"Name": "irides-r"
+		},
+		{
+			"Id": "ArtMeshMouth",
+			"Name": "mouth"
+		},
+		{
+			"Id": "ArtMeshMouth_lip_0",
+			"Name": "mouth / 上唇描边"
+		},
+		{
+			"Id": "ArtMeshMouth_lip_1",
+			"Name": "mouth / 下唇描边"
+		},
+		{
+			"Id": "ArtMeshEyewhiteL",
+			"Name": "eyewhite-l"
+		},
+		{
+			"Id": "ArtMeshEyewhiteR",
+			"Name": "eyewhite-r"
+		},
+		{
+			"Id": "ArtMeshFace",
+			"Name": "face"
+		},
+		{
+			"Id": "ArtMeshTopwear",
+			"Name": "topwear"
+		},
+		{
+			"Id": "ArtMeshNeck",
+			"Name": "neck"
+		},
+		{
+			"Id": "ArtMeshFootwearL",
+			"Name": "footwear-l"
+		},
+		{
+			"Id": "ArtMeshFootwearR",
+			"Name": "footwear-r"
+		},
+		{
+			"Id": "ArtMeshLegwearL",
+			"Name": "legwear-l"
+		},
+		{
+			"Id": "ArtMeshLegwearR",
+			"Name": "legwear-r"
+		},
+		{
+			"Id": "ArtMeshBackHair",
+			"Name": "back hair"
+		},
+		{
+			"Id": "ArtMeshTail",
+			"Name": "tail"
+		},
+		{
+			"Id": "ArtMeshFrontHair2",
+			"Name": "ahoge"
+		},
+		{
+			"Id": "ArtMeshImage",
+			"Name": "acc_basin"
+		},
+		{
+			"Id": "ArtMeshImage_2",
+			"Name": "acc_chef"
+		},
+		{
+			"Id": "ArtMeshImage_3",
+			"Name": "acc_glasses"
+		},
+		{
+			"Id": "ArtMeshImage_4",
+			"Name": "acc_rice"
+		},
+		{
+			"Id": "ArtMeshImage_5",
+			"Name": "acc_clip"
+		},
+		{
+			"Id": "ArtMeshImage_9",
+			"Name": "ex_sweat"
+		},
+		{
+			"Id": "ArtMeshImage_10",
+			"Name": "ex_angry"
+		},
+		{
+			"Id": "ArtMeshImage_11",
+			"Name": "ex_smile_r"
+		},
+		{
+			"Id": "ArtMeshImage_12",
+			"Name": "ex_smile_l"
+		},
+		{
+			"Id": "ArtMeshImage_17",
+			"Name": "mouth_cat"
+		},
+		{
+			"Id": "ArtMeshImage_18",
+			"Name": "mouth_o"
+		},
+		{
+			"Id": "ArtMeshImage_19",
+			"Name": "ex_star_r"
+		},
+		{
+			"Id": "ArtMeshImage_20",
+			"Name": "ex_star_l"
+		},
+		{
+			"Id": "ArtMeshImage_21",
+			"Name": "ex_heart_r"
+		},
+		{
+			"Id": "ArtMeshImage_22",
+			"Name": "ex_heart_l"
+		},
+		{
+			"Id": "ArtMeshImage_23",
+			"Name": "ex_blush"
+		},
+		{
+			"Id": "ArtMeshImage_24",
+			"Name": "ex_tears"
+		},
+		{
+			"Id": "ArtMeshImage_27",
+			"Name": "ex_gloom"
+		},
+		{
+			"Id": "ArtMeshImage_28",
+			"Name": "bowtail_r"
+		},
+		{
+			"Id": "ArtMeshImage_29",
+			"Name": "bowtail_l"
+		},
+		{
+			"Id": "ArtMeshImage_30",
+			"Name": "hl_r"
+		},
+		{
+			"Id": "ArtMeshImage_31",
+			"Name": "hl_l"
+		},
+		{
+			"Id": "ArtMeshImage_32",
+			"Name": "brow_r"
+		},
+		{
+			"Id": "ArtMeshImage_33",
+			"Name": "lowlid_r"
+		},
+		{
+			"Id": "ArtMeshImage_34",
+			"Name": "brow_l"
+		},
+		{
+			"Id": "ArtMeshImage_35",
+			"Name": "lowlid_l"
+		},
+		{
+			"Id": "ArtMeshImage_36",
+			"Name": "back hair-r"
+		},
+		{
+			"Id": "ArtMeshImage_37",
+			"Name": "back hair-l"
+		},
+		{
+			"Id": "ArtMeshImage_38",
+			"Name": "fh_lock_r"
+		},
+		{
+			"Id": "ArtMeshImage_39",
+			"Name": "fh_lock_l"
+		},
+		{
+			"Id": "ArtMeshImage_40",
+			"Name": "fh_center"
+		},
+		{
+			"Id": "ArtMeshImage_41",
+			"Name": "fh_side_r"
+		},
+		{
+			"Id": "ArtMeshImage_42",
+			"Name": "fh_side_l"
+		},
+		{
+			"Id": "ArtMeshImage_43",
+			"Name": "fh_root"
+		},
+		{
+			"Id": "ArtMeshImage_44",
+			"Name": "lashtip_r"
+		},
+		{
+			"Id": "ArtMeshImage_45",
+			"Name": "lashtip_l"
+		},
+		{
+			"Id": "ArtMeshImage_46",
+			"Name": "bloomers"
+		},
+		{
+			"Id": "ArtMeshImage_47",
+			"Name": "shadow_center"
+		},
+		{
+			"Id": "ArtMeshImage_48",
+			"Name": "shadow_side_r"
+		},
+		{
+			"Id": "ArtMeshImage_49",
+			"Name": "shadow_side_l"
+		},
+		{
+			"Id": "ArtMeshImage_51",
+			"Name": "mouth_open"
+		},
+		{
+			"Id": "ArtMeshImage_52",
+			"Name": "q_squint_r"
+		},
+		{
+			"Id": "ArtMeshImage_53",
+			"Name": "q_squint_l"
+		},
+		{
+			"Id": "ArtMeshImage_54",
+			"Name": "q_cry_r"
+		},
+		{
+			"Id": "ArtMeshImage_55",
+			"Name": "q_cry_l"
+		},
+		{
+			"Id": "ArtMeshImage_56",
+			"Name": "q_dizzy_r"
+		},
+		{
+			"Id": "ArtMeshImage_57",
+			"Name": "q_dizzy_l"
+		},
+		{
+			"Id": "ArtMeshImage_58",
+			"Name": "q_deadpan_r"
+		},
+		{
+			"Id": "ArtMeshImage_59",
+			"Name": "q_deadpan_l"
+		},
+		{
+			"Id": "ArtMeshImage_60",
+			"Name": "mouth_q_wave"
+		},
+		{
+			"Id": "ArtMeshImage_61",
+			"Name": "mouth_q_flat"
+		},
+		{
+			"Id": "ArtMeshImage_66",
+			"Name": "mouth_upper"
+		},
+		{
+			"Id": "ArtMeshImage_65",
+			"Name": "mouth_lower"
+		},
+		{
+			"Id": "ArtMeshImage_64",
+			"Name": "mouth_tongue"
+		},
+		{
+			"Id": "ArtMeshImage_63",
+			"Name": "mouth_teeth"
+		},
+		{
+			"Id": "ArtMeshImage_62",
+			"Name": "mouth_cavity"
+		},
+		{
+			"Id": "ArtMeshImage_67",
+			"Name": "v4b2_mouth_cavity"
+		},
+		{
+			"Id": "ArtMeshImage_68",
+			"Name": "v4b2_mouth_teeth"
+		},
+		{
+			"Id": "ArtMeshImage_69",
+			"Name": "v4b2_mouth_tongue"
+		},
+		{
+			"Id": "ArtMeshImage_70",
+			"Name": "v4b2_mouth_lower"
+		},
+		{
+			"Id": "ArtMeshImage_71",
+			"Name": "v4b2_mouth_upper"
+		},
+		{
+			"Id": "ArtMeshImage_72",
+			"Name": "skirt_back"
+		},
+		{
+			"Id": "ArtMeshImage_73",
+			"Name": "petticoat"
+		},
+		{
+			"Id": "ArtMeshImage_74",
+			"Name": "skirt_front"
+		},
+		{
+			"Id": "ArtMeshImage_75",
+			"Name": "apron"
+		},
+		{
+			"Id": "ArtMeshUpperArmL",
+			"Name": "upper_arm_l"
+		},
+		{
+			"Id": "ArtMeshForearmL",
+			"Name": "forearm_hand_l"
+		},
+		{
+			"Id": "ArtMeshUpperArmR",
+			"Name": "upper_arm_r"
+		},
+		{
+			"Id": "ArtMeshForearmR",
+			"Name": "forearm_hand_r"
+		},
+		{
+			"Id": "ArtMeshImage_76",
+			"Name": "skirt_back"
+		},
+		{
+			"Id": "ArtMeshImage_77",
+			"Name": "skirt_back"
+		},
+		{
+			"Id": "ArtMeshImage_78",
+			"Name": "q_ink_squint_r"
+		},
+		{
+			"Id": "ArtMeshImage_79",
+			"Name": "q_ink_squint_l"
+		},
+		{
+			"Id": "ArtMeshImage_80",
+			"Name": "q_ink_squint_r"
+		},
+		{
+			"Id": "ArtMeshImage_81",
+			"Name": "q_ink_squint_l"
+		},
+		{
+			"Id": "ArtMeshImage_82",
+			"Name": "q_ink_cry_r"
+		},
+		{
+			"Id": "ArtMeshImage_83",
+			"Name": "q_ink_cry_l"
+		},
+		{
+			"Id": "ArtMeshImage_84",
+			"Name": "q_ink_dizzy_r"
+		},
+		{
+			"Id": "ArtMeshImage_85",
+			"Name": "q_ink_dizzy_l"
+		},
+		{
+			"Id": "ArtMeshImage_86",
+			"Name": "q_ink_deadpan_r"
+		},
+		{
+			"Id": "ArtMeshImage_87",
+			"Name": "q_ink_deadpan_l"
+		},
+		{
+			"Id": "ArtMeshImage_99",
+			"Name": "brow_v4i_l_overlay"
+		},
+		{
+			"Id": "ArtMeshImage_98",
+			"Name": "brow_v4i_l_body"
+		},
+		{
+			"Id": "ArtMeshImage_101",
+			"Name": "brow_v4i_r_overlay"
+		},
+		{
+			"Id": "ArtMeshImage_100",
+			"Name": "brow_v4i_r_body"
+		},
+		{
+			"Id": "ArtMeshImage_88",
+			"Name": "mouth_v4f_cavity_crop"
+		},
+		{
+			"Id": "ArtMeshImage_89",
+			"Name": "mouth_v4f_teeth_crop"
+		},
+		{
+			"Id": "ArtMeshImage_90",
+			"Name": "mouth_v4f_tongue_crop"
+		},
+		{
+			"Id": "ArtMeshImage_97",
+			"Name": "mouth_v4f_smug_crop"
+		},
+		{
+			"Id": "ArtMeshImage_96",
+			"Name": "mouth_v4f_pout_crop"
+		},
+		{
+			"Id": "ArtMeshImage_95",
+			"Name": "mouth_v4f_shrug_crop"
+		},
+		{
+			"Id": "ArtMeshImage_94",
+			"Name": "mouth_v4f_press_crop"
+		},
+		{
+			"Id": "ArtMeshImage_93",
+			"Name": "mouth_v4f_upper_crop"
+		},
+		{
+			"Id": "ArtMeshImage_92",
+			"Name": "mouth_v4f_lower_crop"
+		},
+		{
+			"Id": "ArtMeshImage_91",
+			"Name": "mouth_v4f_fang_crop"
+		},
+		{
+			"Id": "ArtMeshImage_104",
+			"Name": "cry_big_line_r"
+		},
+		{
+			"Id": "ArtMeshImage_103",
+			"Name": "cry_big_water_r"
+		},
+		{
+			"Id": "ArtMeshImage_102",
+			"Name": "cry_big_skin_r"
+		},
+		{
+			"Id": "ArtMeshImage_107",
+			"Name": "cry_big_line_l"
+		},
+		{
+			"Id": "ArtMeshImage_106",
+			"Name": "cry_big_water_l"
+		},
+		{
+			"Id": "ArtMeshImage_105",
+			"Name": "cry_big_skin_l"
+		},
+		{
+			"Id": "ArtMeshImage_108",
+			"Name": "v4m_fill_shoulder_r"
+		},
+		{
+			"Id": "ArtMeshImage_109",
+			"Name": "v4m_fill_shoulder_l"
+		},
+		{
+			"Id": "ArtMeshImage_110",
+			"Name": "v4m_fill_waist_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_112",
+			"Name": "fill_cloth"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_111",
+			"Name": "fill_hair"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_110",
+			"Name": "hand"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_109",
+			"Name": "forearm"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_108",
+			"Name": "upper"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G1HairUpper",
+			"Name": "G1 保留原后发上段"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_118",
+			"Name": "g4_bowl"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_117",
+			"Name": "g4_rice"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_116",
+			"Name": "g4_palm_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_115",
+			"Name": "g4_palm_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_114",
+			"Name": "g4_arm_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_113",
+			"Name": "g4_arm_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_123",
+			"Name": "g4_steam"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_122",
+			"Name": "g4_fingers"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_121",
+			"Name": "g4_fill_hair"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_120",
+			"Name": "g4_fill_cloth"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_119",
+			"Name": "g4_rim"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_129",
+			"Name": "g2_fill_hair"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_128",
+			"Name": "g2_fist_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_127",
+			"Name": "g2_arm_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_126",
+			"Name": "g2_fill_cloth"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_125",
+			"Name": "g2_fist_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_124",
+			"Name": "g2_arm_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_121_Right",
+			"Name": "g4_fill_hair_right_follow"
+		},
+		{
+			"Id": "ArtMeshGestV4p_Image_129_Right",
+			"Name": "g2_fill_hair_right_follow"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G4_upper_r",
+			"Name": "G4_v4p_upper_hair_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G4_upper_l",
+			"Name": "G4_v4p_upper_hair_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_upper_r",
+			"Name": "G2_v4p_upper_hair_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_upper_l",
+			"Name": "G2_v4p_upper_hair_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_cover_l",
+			"Name": "G2_cover_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_cover_r",
+			"Name": "G2_cover_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G1_inner_hair_backing",
+			"Name": "G1_inner_hair_backing"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G1_shoulder_underlap_r",
+			"Name": "G1_shoulder_underlap_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G4_inner_hair_backing",
+			"Name": "G4_inner_hair_backing"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G4_shoulder_underlap_l",
+			"Name": "G4_shoulder_underlap_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G4_shoulder_underlap_r",
+			"Name": "G4_shoulder_underlap_r"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_inner_hair_backing",
+			"Name": "G2_inner_hair_backing"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_shoulder_underlap_l",
+			"Name": "G2_shoulder_underlap_l"
+		},
+		{
+			"Id": "ArtMeshGestV4p_G2_shoulder_underlap_r",
+			"Name": "G2_shoulder_underlap_r"
+		},
+		{
+			"Id": "ArtMeshChefV4qFront",
+			"Name": "ArtMeshChefV4qFront"
+		},
+		{
+			"Id": "ArtMeshChefV4qRear",
+			"Name": "ArtMeshChefV4qRear"
+		},
+		{
+			"Id": "ArtMeshChefV4qG2Cover_l",
+			"Name": "ArtMeshChefV4qG2Cover_l"
+		},
+		{
+			"Id": "ArtMeshChefV4qG2Cover_r",
+			"Name": "ArtMeshChefV4qG2Cover_r"
+		},
+		{
+			"Id": "ArtMeshLocalHairPatchV4r_108",
+			"Name": "local_hair_underlap_108"
+		},
+		{
+			"Id": "ArtMeshLocalHairPatchV4r_113",
+			"Name": "local_hair_underlap_113"
+		},
+		{
+			"Id": "ArtMeshLocalHairPatchV4r_114",
+			"Name": "local_hair_underlap_114"
+		},
+		{
+			"Id": "ArtMeshLocalHairPatchV4r_124",
+			"Name": "local_hair_underlap_124"
+		},
+		{
+			"Id": "ArtMeshLocalHairPatchV4r_127",
+			"Name": "local_hair_underlap_127"
+		},
+		{
+			"Id": "ArtMeshV4rClothClip",
+			"Name": "v4r_cloth_clip"
+		},
+		{
+			"Id": "ArtMeshV4s_113",
+			"Name": "v4s_g4_arm_l"
+		},
+		{
+			"Id": "ArtMeshV4s_114",
+			"Name": "v4s_g4_arm_r"
+		},
+		{
+			"Id": "ArtMeshV4s_115",
+			"Name": "v4s_g4_palm_l"
+		},
+		{
+			"Id": "ArtMeshV4s_116",
+			"Name": "v4s_g4_palm_r"
+		},
+		{
+			"Id": "ArtMeshV4s_RiceBasin",
+			"Name": "v4s_g4_bowl"
+		},
+		{
+			"Id": "ArtMeshV4s_ClosedLine",
+			"Name": "v4s_mouth_v4f_upper_crop"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_forearm_l",
+			"Name": "v4u_G4_forearm_l"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_forearm_r",
+			"Name": "v4u_G4_forearm_r"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_basin",
+			"Name": "v4u_G4_basin"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_rice",
+			"Name": "v4u_G4_rice"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_hand_l",
+			"Name": "v4u_G4_hand_l"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_hand_r",
+			"Name": "v4u_G4_hand_r"
+		},
+		{
+			"Id": "ArtMeshV4u_G4_steam",
+			"Name": "v4u_G4_steam"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_claude_pin",
+			"Name": "v4u_Acc_claude_pin"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_gpt_knot_tassel",
+			"Name": "v4u_Acc_gpt_knot_tassel"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_gpt_knot",
+			"Name": "v4u_Acc_gpt_knot"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_gemini_star_small",
+			"Name": "v4u_Acc_gemini_star_small"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_gemini_star",
+			"Name": "v4u_Acc_gemini_star"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_grok_x",
+			"Name": "v4u_Acc_grok_x"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_qwen_badge_tassel",
+			"Name": "v4u_Acc_qwen_badge_tassel"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_qwen_badge",
+			"Name": "v4u_Acc_qwen_badge"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_glm_z_ribbon",
+			"Name": "v4u_Acc_glm_z_ribbon"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_glm_z",
+			"Name": "v4u_Acc_glm_z"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_kimi_moon_charm",
+			"Name": "v4u_Acc_kimi_moon_charm"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_kimi_moon",
+			"Name": "v4u_Acc_kimi_moon"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_minimax_wave_shell",
+			"Name": "v4u_Acc_minimax_wave_shell"
+		},
+		{
+			"Id": "ArtMeshV4u_Acc_minimax_wave",
+			"Name": "v4u_Acc_minimax_wave"
+		},
+		{
+			"Id": "ArtMeshV4v_band",
+			"Name": "v4u_band"
+		},
+		{
+			"Id": "ArtMeshV4v_cup",
+			"Name": "v4u_cup"
+		},
+		{
+			"Id": "ArtMeshV4v_mic",
+			"Name": "v4u_mic"
+		},
+		{
+			"Id": "ArtMeshV4v_logo",
+			"Name": "v4u_logo"
+		},
+		{
+			"Id": "ArtMeshV4w_Acc_bing_logo",
+			"Name": "v4w_Acc_bing_logo"
+		},
+		{
+			"Id": "ArtMeshV4yPetticoatRear",
+			"Name": "v4y petticoat rear inner ruffle"
+		},
+		{
+			"Id": "ArtMeshV4yNose",
+			"Name": "v4y nose"
+		},
+		{
+			"Id": "ArtMeshV4y2NeckShadow",
+			"Name": "v4y2 gentle downward pitch chin shadow"
+		},
+		{
+			"Id": "ArtMeshFrontHair2StemV4z6",
+			"Name": "ahoge stem behind frill"
+		},
+		{
+			"Id": "ArtMeshImage_11CornerFeather75V4z7",
+			"Name": "ex_smile_r corner feather 0.75"
+		},
+		{
+			"Id": "ArtMeshImage_11CornerFeather25V4z7",
+			"Name": "ex_smile_r corner feather 0.25"
+		},
+		{
+			"Id": "ArtMeshImage_12CornerFeather75V4z7",
+			"Name": "ex_smile_l corner feather 0.75"
+		},
+		{
+			"Id": "ArtMeshImage_12CornerFeather25V4z7",
+			"Name": "ex_smile_l corner feather 0.25"
+		},
+		{
+			"Id": "ArtMeshEyeCloseRCornerFeather75V4z7",
+			"Name": "eye close-r corner feather 0.75"
+		},
+		{
+			"Id": "ArtMeshEyeCloseRCornerFeather25V4z7",
+			"Name": "eye close-r corner feather 0.25"
+		},
+		{
+			"Id": "ArtMeshEyeCloseLCornerFeather75V4z7",
+			"Name": "eye close-l corner feather 0.75"
+		},
+		{
+			"Id": "ArtMeshEyeCloseLCornerFeather25V4z7",
+			"Name": "eye close-l corner feather 0.25"
+		},
+		{
+			"Id": "ArtMeshEyelashRCornerCoreV4z7",
+			"Name": "eyelash-r trimmed corner 1"
+		},
+		{
+			"Id": "ArtMeshEyelashRCornerFeather75V4z7",
+			"Name": "eyelash-r trimmed corner 0.75"
+		},
+		{
+			"Id": "ArtMeshEyelashRCornerFeather25V4z7",
+			"Name": "eyelash-r trimmed corner 0.25"
+		},
+		{
+			"Id": "ArtMeshEyelashLCornerCoreV4z7",
+			"Name": "eyelash-l trimmed corner 1"
+		},
+		{
+			"Id": "ArtMeshEyelashLCornerFeather75V4z7",
+			"Name": "eyelash-l trimmed corner 0.75"
+		},
+		{
+			"Id": "ArtMeshEyelashLCornerFeather25V4z7",
+			"Name": "eyelash-l trimmed corner 0.25"
+		}
+	]
+}

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>面捕测试台 · DeepSeek娘</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='12' fill='%235b6cf0'/%3E%3Ctext x='8' y='29' font-size='27' fill='white'%3E鲸%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./bootstrap.mjs"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./index.html" aria-label="面捕测试台首页"><span class="brand-mark">鲸</span><span>面捕测试台<small>DeepSeek娘 · 本地实时预览</small></span></a>
+    <div class="top-actions"><span class="privacy"><i></i>画面只在本机处理</span><button id="theme" class="quiet" title="切换深浅色">切换深浅色</button></div>
+  </header>
+  <main class="workspace">
+    <section class="stage" aria-label="Live2D 模型预览">
+      <div class="stage-heading"><div><span class="eyebrow">LIVE2D / 实时预览</span><h1>DeepSeek娘</h1></div><span class="badge" id="model-status">模型加载中</span></div>
+      <div id="canvas-host"></div>
+      <div id="loading" class="loading"><span class="spinner"></span><strong>正在唤醒小鲸鱼</strong><span>读取本地模型与贴图…</span></div>
+      <div class="view-tools" role="group" aria-label="取景"><button id="upper" class="selected" aria-pressed="true">上半身</button><button id="full" aria-pressed="false">全身</button><span></span><button id="reset-view" title="恢复当前取景">重置取景</button></div>
+      <div class="stage-footer"><span><i class="status-dot" id="tracking-dot"></i><span id="tracking-status">等待输入</span></span><span class="stage-hint">滚轮缩放 · 拖动画面平移</span><span id="fps-badge">— 帧/秒</span></div>
+    </section>
+    <aside class="controls" aria-label="面捕控制台">
+      <section class="panel input-panel">
+        <div class="section-title"><h2>捕捉输入</h2><span id="delegate" class="muted">尚未启动</span></div>
+        <div class="camera-preview" id="preview">
+          <video id="video" muted playsinline></video><img id="photo" alt="本地图片测试输入" hidden><canvas id="landmarks"></canvas>
+          <div class="camera-placeholder" id="camera-placeholder"><span class="camera-icon">◎</span><strong>让小鲸鱼看见你的表情</strong><span>开启摄像头，或选择本地素材</span></div>
+          <span class="preview-label" id="source-label">镜像预览</span>
+        </div>
+        <div class="input-actions"><button id="camera" class="primary">开启摄像头</button><button id="file-button">用视频 / 图片测试</button><input id="file-input" type="file" accept="video/*,image/*" hidden></div>
+        <div class="input-options"><label class="check"><input id="show-landmarks" type="checkbox" checked>显示关键点</label><button id="stop-input" class="text-button" disabled>停止输入</button></div>
+        <label class="check"><input id="mouse-follow" type="checkbox" checked>跟随鼠标</label>
+        <p class="section-hint">无输入时看向页面内鼠标 · 触屏按住拖动 · 面捕和动作优先</p>
+        <div id="video-controls" class="video-controls" hidden><button id="video-play" class="quiet">暂停</button><input id="video-seek" aria-label="视频进度" type="range" min="0" max="1000" value="0"><span id="video-time">0:00</span></div>
+        <p class="notice" id="notice" role="status">面向镜头、光线均匀，效果会更稳定。</p>
+        <p class="section-hint" id="capture-info" aria-live="polite">尚无输入</p>
+      </section>
+      <details class="panel" id="performance-panel">
+        <summary>性能面板 · 最近 10 秒</summary>
+        <p class="notice error" id="detector-warning" role="status" hidden></p>
+        <dl class="perf-readouts">
+          <dt>识别后端</dt><dd id="perf-backend">未启动</dd>
+          <dt>渲染帧率</dt><dd id="perf-render">—</dd>
+          <dt>帧间隔 p95 / 最大</dt><dd id="perf-interval">—</dd>
+          <dt>超过 25 ms 的帧</dt><dd id="perf-slow">—</dd>
+          <dt>识别耗时 / 帧率</dt><dd id="perf-detect">—</dd>
+          <dt>识别输入分辨率</dt><dd id="perf-input">—</dd>
+          <dt>同步工作最大 / 超 8 ms</dt><dd id="perf-sync">—</dd>
+        </dl>
+      </details>
+      <section class="panel tuning-panel">
+        <div class="section-title"><h2>灵敏度与平滑</h2><button id="calibrate" class="small-button" disabled>个人校准</button></div>
+        <p class="section-hint" id="calibration-hint">自然正视镜头，再点击校准。</p>
+        <p id="calibration-progress" class="notice" role="status" aria-live="polite" hidden></p>
+        <div class="input-options"><button id="reset-calibration" class="text-button">重置校准</button><button id="cancel-calibration" class="text-button" hidden>取消校准</button></div>
+        <div class="slider-row"><label for="smoothing">平滑程度</label><input id="smoothing" type="range" min="0" max="100" value="50" aria-label="平滑程度：左侧静稳，右侧灵敏"><output id="smoothing-level">均衡</output></div>
+        <p class="section-hint">静稳 ← 平滑程度 → 灵敏</p>
+        <div class="slider-row"><label for="body-follow">身体惯性</label><input id="body-follow" type="range" min="120" max="180" step="10" value="150"><output id="body-follow-level">150 ms</output></div>
+        <p class="section-hint">身体跟随头部 · 数值越大越慢 · 无过冲、无回弹</p>
+        <label class="check"><input id="auto-mouth" type="checkbox">自动撅嘴/抿嘴/撇嘴（可能有切换跳动）</label>
+        <div class="slider-row"><label for="head-sensitivity">头部</label><input id="head-sensitivity" type="range" min="0" max="2" step="1" value="1"><output id="head-level">标准</output></div>
+        <div class="slider-row"><label for="mouth-sensitivity">嘴部</label><input id="mouth-sensitivity" type="range" min="0" max="2" step="1" value="1"><output id="mouth-level">标准</output></div>
+        <div class="slider-row"><label for="eye-sensitivity">眼睛</label><input id="eye-sensitivity" type="range" min="0" max="2" step="1" value="1"><output id="eye-level">标准</output></div>
+        <div class="slider-row"><label for="brow-sensitivity">眉毛</label><input id="brow-sensitivity" type="range" min="0" max="2" step="1" value="1"><output id="brow-level">标准</output></div>
+      </section>
+      <section class="panel expressions-panel">
+        <div class="section-title"><h2>表情与装扮</h2><button id="clear-expressions" class="text-button">全部清除</button></div>
+        <p class="section-hint">再次点击关闭 · 饰品、肤色可叠加</p>
+        <div id="expressions" class="chip-grid"><span class="muted">正在读取表情清单…</span></div>
+      </section>
+      <section class="panel motions-panel">
+        <div class="section-title"><h2>动作试播</h2><span id="motion-status" class="muted">点击播放一次</span></div>
+        <div id="motions" class="chip-grid"></div>
+        <p class="section-hint">播放时暂停头部和身体跟随，结束后自动恢复。</p>
+      </section>
+      <section class="panel telemetry-panel">
+        <div class="section-title"><h2>实时参数</h2><span class="muted">实际写入值</span></div>
+        <dl id="readouts" class="readouts"></dl>
+      </section>
+      <footer class="controls-footer">离线运行 · 摄像头与素材不会上传<br><span id="model-meta">运行时读取已导出的模型</span></footer>
+    </aside>
+  </main>
+</body>
+</html>

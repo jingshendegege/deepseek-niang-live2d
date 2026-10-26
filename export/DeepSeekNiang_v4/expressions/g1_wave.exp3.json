@@ -1,0 +1,22 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0,
+  "FadeOutTime": 0,
+  "Parameters": [
+    {
+      "Id": "ParamGestureWave",
+      "Value": 1,
+      "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamGestureBowl",
+      "Value": 0,
+      "Blend": "Overwrite"
+    },
+    {
+      "Id": "ParamGestureCheer",
+      "Value": 0,
+      "Blend": "Overwrite"
+    }
+  ]
+}
