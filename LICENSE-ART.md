@@ -17,12 +17,11 @@
 这个皮套是同人二创，不是原创角色：
 
 - 原型角色“溟月”由 @上善无形 创作，按 CC BY-NC-SA 4.0 发布，演绎作品必须沿用同一许可；
-- DeepSeek娘 的女仆版人设来自 @ZipZipPipe（作者声明不可商用），Q 版人设来自 @这个刀子真甜；
-- 铁盆梗来自 @蒙德砍壬（BV15X3n6mEWy）。
+- DeepSeek娘 的人设来自 @ZipZipPipe（作者声明不可商用）。
 
 ## 署名写法
 
-> DeepSeek娘 Live2D 皮套 · 制作 donkyi（本仓库地址）；人设 @ZipZipPipe @这个刀子真甜；铁盆 @蒙德砍壬；原型角色“溟月” @上善无形（CC BY-NC-SA 4.0）
+> DeepSeek娘 Live2D 皮套 · 制作 donkyi（本仓库地址）；人设 @ZipZipPipe；原型角色“溟月” @上善无形（CC BY-NC-SA 4.0）
 
 ## 修改说明
 

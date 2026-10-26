@@ -2,7 +2,7 @@
 
 DeepSeek娘是以蓝色系、鲸尾和荷叶头饰为特征的同人角色，本仓库是她的 Live2D 皮套（模型）和本地面捕网页。**Live2D 皮套制作：donkyi。** 形象来自社区人设与原型角色，详见下方[形象来源与署名](#形象来源与署名)；模型与美术按 **CC BY-NC-SA 4.0** 发布，**不可商用**。
 
-English: DeepSeek-niang Live2D v4z7 — a fan-made Live2D model (rigged by donkyi) with a local face-tracking web app, expressions and hair/eye colour presets. Character design by @ZipZipPipe (maid version) and @这个刀子真甜 (chibi), based on the original character “溟月” by @上善无形 (CC BY-NC-SA 4.0). Model and artwork: CC BY-NC-SA 4.0, non-commercial. Code: MIT. Not affiliated with DeepSeek.
+English: DeepSeek-niang Live2D v4z7 — a fan-made Live2D model (rigged by donkyi) with a local face-tracking web app, expressions and hair/eye colour presets. Character design by @ZipZipPipe, based on the original character “溟月” by @上善无形 (CC BY-NC-SA 4.0). Model and artwork: CC BY-NC-SA 4.0, non-commercial. Code: MIT. Not affiliated with DeepSeek.
 
 ## 下载完整模型
 
@@ -85,22 +85,20 @@ node facetrack/run-tests.mjs
 | 内容 | 作者 / 来源 |
 |---|---|
 | Live2D 皮套（分层、绑定、物理、表情、饰品、面捕网页） | donkyi |
-| DeepSeek娘 女仆版人设（原形象） | @ZipZipPipe（作者声明不可商用） |
-| DeepSeek娘 Q 版人设 | @这个刀子真甜 |
-| 铁盆梗 | @蒙德砍壬（BV15X3n6mEWy） |
+| DeepSeek娘 人设（原形象） | @ZipZipPipe（作者声明不可商用） |
 | 原型角色“溟月” | @上善无形，按 CC BY-NC-SA 4.0 发布 |
 
 **修改说明**（CC 协议要求注明）：在上述人设基础上重新绘制立绘并拆分图层，补画被遮挡部分，制作成 Live2D 模型，并新增表情、饰品、发色与眼色预设、物理和动作。
 
 建议署名写法：
 
-> DeepSeek娘 Live2D 皮套 · 制作 donkyi（本仓库地址）；人设 @ZipZipPipe @这个刀子真甜；铁盆 @蒙德砍壬；原型角色“溟月” @上善无形（CC BY-NC-SA 4.0）
+> DeepSeek娘 Live2D 皮套 · 制作 donkyi（本仓库地址）；人设 @ZipZipPipe；原型角色“溟月” @上善无形（CC BY-NC-SA 4.0）
 
 AI 发饰（Claude、GPT、Gemini、Grok、千问、GLM、Kimi、MiniMax、New Bing）只是同人致敬图案，相关名称和标志归各自所有者。**本项目与 DeepSeek 公司及上述各 AI 公司无关。**
 
 ## 许可
 
-- **模型与美术**（`export/` 下的贴图、模型、表情、动作、物理和 VTS 配置，`hair_masks/`、`hair_palettes.json`，以及 Releases 里的完整模型 ZIP）：**知识共享 署名-非商业性使用-相同方式共享 4.0 国际（CC BY-NC-SA 4.0）**，见 [LICENSE-ART.md](LICENSE-ART.md)。原型角色“溟月”按 CC BY-NC-SA 4.0 发布，演绎作品必须沿用同一许可；女仆版人设作者声明不可商用。所以本模型**禁止商用**，再创作也须以同一许可发布并保留署名。
+- **模型与美术**（`export/` 下的贴图、模型、表情、动作、物理和 VTS 配置，`hair_masks/`、`hair_palettes.json`，以及 Releases 里的完整模型 ZIP）：**知识共享 署名-非商业性使用-相同方式共享 4.0 国际（CC BY-NC-SA 4.0）**，见 [LICENSE-ART.md](LICENSE-ART.md)。原型角色“溟月”按 CC BY-NC-SA 4.0 发布，演绎作品必须沿用同一许可；人设作者 @ZipZipPipe 声明不可商用。所以本模型**禁止商用**，再创作也须以同一许可发布并保留署名。
 - **代码**（`facetrack/` 下的网页、脚本和测试）：MIT，见 [LICENSE](LICENSE)。
 - 第三方运行库（Live2D Cubism Core、pixi.js、pixi-live2d-display、MediaPipe）不在本仓库，各自的许可见 [docs/DEPENDENCIES.md](docs/DEPENDENCIES.md)。
 
